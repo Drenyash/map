@@ -38,57 +38,33 @@ function init() {
             categoryBox.insertAdjacentHTML('beforeend', categoryTemplate(el))
         });
 
-        // Создадим пункты выпадающего списка.
-        var listBoxItems = [...productTypes]
-                .map((title) => {
-                    return new ymaps.control.ListBoxItem({
-                        data: {
-                            content: title
-                        },
-                        state: {
-                            selected: true
-                        }
-                    })
-                }),
-            reducer = (filters, filter) => {
-                filters[filter.data.get('content')] = filter.isSelected();
-                return filters;
-            },
-            // Теперь создадим список, содержащий пункты.
-            listBoxControl = new ymaps.control.ListBox({
-                data: {
-                    content: 'Фильтр',
-                    title: 'Фильтр'
-                },
-                items: listBoxItems,
-                state: {
-                    // Признак, развернут ли список.
-                    expanded: true,
-                    filters: listBoxItems.reduce(reducer, {})
+        const categoryInputs = document.querySelectorAll("[data-check]");
+        let filters = [...productTypes];
+        categoryInputs.forEach(input => {
+            input.addEventListener('change', (evt) => {
+                if (!evt.target.checked) {
+                    filters.splice(filters.indexOf(evt.target.value), 1)
+                } else {
+                    filters.push(evt.target.value)
                 }
-            });
-        myMap.controls.add(listBoxControl);
-
-        // Добавим отслеживание изменения признака, выбран ли пункт списка.
-        listBoxControl.events.add(['select', 'deselect'], (e) => {
-            const listBoxItem = e.get('target');
-            const filters = ymaps.util.extend({}, listBoxControl.state.get('filters'));
-            filters[listBoxItem.data.get('content')] = listBoxItem.isSelected();
-            listBoxControl.state.set('filters', filters);
-        });
-
-        const filterMonitor = new ymaps.Monitor(listBoxControl.state);
-        filterMonitor.add('filters', (filters) => {
-            // Применим фильтр.
+                objectManager.setFilter(getFilterFunction(filters));
+            })
             objectManager.setFilter(getFilterFunction(filters));
-        });
+        })
+
 
         function getFilterFunction(categories) {
             return (obj) => {
                 const content = obj.properties.balloonContent;
-                return categories[content]
+                for (let category of categories) {
+                    if (category === content) {
+                        return category
+                    }
+                }
             }
         }
+
+
     }
 
     const categoryTemplate = (productType) => {
@@ -100,13 +76,11 @@ function init() {
     `
     }
 
-    // -----------------------------------
-
-    $.ajax({
-        url: "data.json"
-    }).done(function (data) {
-        getData(data);
-        objectManager.add(data);
-    });
+    fetch('../data.json')
+        .then(response => response.json())
+        .then(response => {
+            getData(response);
+            objectManager.add(response)
+        })
 
 }
