@@ -89,7 +89,7 @@
         "coordinates": [54.854304, 20.229431]
       },
       "properties": {
-        "balloonContent": "Овощеводство",
+        "balloonContent": "Зелёные культуры",
         "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Кудин Роман Георгиевич</p></li><li><p><strong>Руководитель:</strong>Кудин Роман Георгиевич</p></li><li><p><strong>ИНН:</strong>390612214438</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>выращивание зеленных культур</p></li><li><p><strong>Производимая продукция:</strong>салаты: Айсберг, листовой, романо; руккола, шпинат, лук, укроп, петрушка, базилик), редис, кабачки, тыква</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Зеленоградский район, пос. Черепаново</p></li></ul>",
         "clusterCaption": "ИП Копырина Виктория Андреевна"
       },
@@ -109,7 +109,7 @@
         "coordinates": [54.542999, 20.719480]
       },
       "properties": {
-        "balloonContent": "Овощеводство",
+        "balloonContent": "Зелёные культуры",
         "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>ИП Копырина Виктория Андреевна</p></li><li><p><strong>Руководитель:</strong>Копырина Виктория Андреевна</p></li><li><p><strong>ИНН:</strong>245731417311</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>выращивание зеленных культур</p></li><li><p><strong>Производимая продукция:</strong>зелень, микрозелень, бейбилист, съедобные цветы</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Багратионовский район, пос. Чехово</p></li></ul>",
         "clusterCaption": "К(Ф)Х Щеголькова Марина Александровна"
       },
@@ -129,7 +129,7 @@
         "coordinates": [54.801592, 20.690222]
       },
       "properties": {
-        "balloonContent": "Овощеводство",
+        "balloonContent": "Зелёные культуры",
         "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Щеголькова Марина Александровна</p></li><li><p><strong>Руководитель:</strong>Щеголькова Марина Александровна</p></li><li><p><strong>ИНН:</strong>391700236810</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель, капуста белокочанная, свекла столовая, лук, зелень, кабачок, клубника, огурцы</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гурьевский район, пос. Константиновка</p></li></ul>",
         "clusterCaption": "К(Ф)Х Пенкина Татьяна Ивановна"
       },
@@ -292,6 +292,726 @@
         "balloonContent": "Овощеводство",
         "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Стонкус Анжелика Вилюсовна</p></li><li><p><strong>Руководитель:</strong>Стонкус Анжелика Вилюсовна</p></li><li><p><strong>ИНН:</strong>392401589424</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель, капуста, свекла, морковь, томат, огурец, перец, баклажан</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Славский район, пос. Придорожное</p></li></ul>",
         "clusterCaption": "К(Ф)Х Баков Александр Иванович"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.673268, 20.131093]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Тетервак Сергей Сергеевич</p></li><li><p><strong>Руководитель:</strong>Тетервак Сергей Сергеевич</p></li><li><p><strong>ИНН:</strong>391380001365</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>томаты, свекла, кабачки, картофель, лук, чеснок, зеленные культуры.</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, г. Светлый</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Тетервак Сергей Сергеевич"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.858466, 22.287355]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Козлов Игорь Викторович</p></li><li><p><strong>Руководитель:</strong>Козлов Игорь Викторович</p></li><li><p><strong>ИНН:</strong>391900480815</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>лук, морковь, картофель</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Краснознаменский район, пос. Узловое</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Козлов Игорь Викторович"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.456265, 22.426917]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(ФХ) Воробьевский Сергей Иванович</p></li><li><p><strong>Руководитель:</strong>Воробьевский Сергей Иванович</p></li><li><p><strong>ИНН:</strong>392001340464</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель, зерновые и масличные культуры</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Нестеровский район, пос. Чистые Пруды</p></li></ul>",
+        "clusterCaption": "К(ФХ) Воробьевский Сергей Иванович"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.483818, 22.514395]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Остапенко Татьяна Александровна</p></li><li><p><strong>Руководитель:</strong>Остапенко Татьяна Александровна</p></li><li><p><strong>ИНН:</strong>253700459392</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>огурцы, томаты</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Нестеровский район, пос. Знаменка</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Остапенко Татьяна Александровна"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.360931, 21.305317]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Михайлова Елена Владимировна</p></li><li><p><strong>Руководитель:</strong>Михайлова Елена Владимировна</p></li><li><p><strong>ИНН:</strong>392302241202</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>томаты, огурцы, ягоды</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Правдинский район, пос. Железнодорожный</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Михайлова Елена Владимировна"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.751378, 21.081546]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Черных Артур Владиславович</p></li><li><p><strong>Руководитель:</strong>Черных Артур Владиславович</p></li><li><p><strong>ИНН:</strong>391601945903</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>томаты, огурцы, капуста, картофель, малина, клубника</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гвардейский район, пос. Славинск</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Черных Артур Владиславович"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.800928, 22.150119]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Богомолова Людмила Юрьевна</p></li><li><p><strong>Руководитель:</strong>Богомолова Людмила Юрьевна</p></li><li><p><strong>ИНН:</strong>390203686239</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель, морковь, лук</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гусевский район, пос. Междуречье</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Богомолова Людмила Юрьевна"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.632390, 20.889091]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Казак Александр Петрович</p></li><li><p><strong>Руководитель:</strong>Казак Александр Петрович</p></li><li><p><strong>ИНН:</strong>391601354428</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская обл., Гвардейский район, пос. Озерки</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Казак Александр Петрович"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.626980, 22.353471]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Мелькович Алексей Игоревич</p></li><li><p><strong>Руководитель:</strong>Мелькович Алексей Игоревич</p></li><li><p><strong>ИНН:</strong>390202998281</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>чеснок</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская обл., Гусевский район, северо-западнее от пос. Ломово</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Мелькович Алексей Игоревич"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.502659, 20.096202]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Дрокин Сергей Викторович</p></li><li><p><strong>Руководитель:</strong>Дрокин Сергей Викторович</p></li><li><p><strong>ИНН:</strong>391503883007</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>капуста, свекла, морковь, тыква</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Багратионовский район, п. Пятидорожное</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Дрокин Сергей Викторович"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.769180, 22.054332]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Минич Илья Владимирович</p></li><li><p><strong>Руководитель:</strong>Минич Илья Владимирович</p></li><li><p><strong>ИНН:</strong>391401938708</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>свекла</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Черняховский район, пос. Щеглы</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Минич Илья Владимирович"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.890717, 20.371248]
+      },
+      "properties": {
+        "balloonContent": "Зелёные культуры",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Свитнева Елена Хорхевна</p></li><li><p><strong>Руководитель:</strong>Свитнева Елена Хорхевна</p></li><li><p><strong>ИНН:</strong>390503299671</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>выращивание зеленных культур</p></li><li><p><strong>Производимая продукция:</strong>зеленый лук</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Зеленоградский район, пос. Родники</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Свитнева Елена Хорхевна"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.487228, 20.635614]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>ИП Турукалова Татьяна Валериевна</p></li><li><p><strong>Руководитель:</strong>Турукалова Татьяна Валериевна</p></li><li><p><strong>ИНН:</strong>390802611779</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>спаржа</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Багратионовский район, п. Гвардейское</p></li></ul>",
+        "clusterCaption": "ИП Турукалова Татьяна Валериевна"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.809370, 20.573836]
+      },
+      "properties": {
+        "balloonContent": "Зелёные культуры",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Баулина Екатерина Юрьевна</p></li><li><p><strong>Руководитель:</strong>Баулина Екатерина Юрьевна</p></li><li><p><strong>ИНН:</strong>392201335704</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>пекинская и белокочанная капуста</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гурьевский район, пос. Митино</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Баулина Екатерина Юрьевна"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.806107, 20.636692]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Мартемьянов Алексей Алексеевич</p></li><li><p><strong>Руководитель:</strong>Мартемьянов Алексей Алексеевич</p></li><li><p><strong>ИНН:</strong>391300517703</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>свекла, морковь, картофель</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гурьевский район, п. Рассвет</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Мартемьянов Алексей Алексеевич"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.809370, 20.573836]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Обердерфер Светлана Викторовна</p></li><li><p><strong>Руководитель:</strong>Обердерфер Светлана Викторовна</p></li><li><p><strong>ИНН:</strong>391704123359</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>свекла, картофель, капуста, лук репчатый</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гурьевский район, пос. Митино</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Обердерфер Светлана Викторовна"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[55.010906, 21.828702]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Бутнорис Руслан Пранцишко</p></li><li><p><strong>Руководитель:</strong>Бутнорис Руслан Пранцишко</p></li><li><p><strong>ИНН:</strong>391102785404</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>огурцы, томаты, перец</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Неманский район, пос. Лукьяново</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Бутнорис Руслан Пранцишко"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.441172, 21.478736]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Тихий Владимир Александрович</p></li><li><p><strong>Руководитель:</strong>Тихий Владимир Александрович</p></li><li><p><strong>ИНН:</strong>312100162162</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель, свекла, огурцы, томаты, зеленные культуры (укроп, лук, петрушка, салат), капуста, перцы</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Правдинский район, пос. Мозырь</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Тихий Владимир Александрович"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.806107, 20.636692]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Палютина Екатерина Сергеевна</p></li><li><p><strong>Руководитель:</strong>Палютина Екатерина Сергеевна</p></li><li><p><strong>ИНН:</strong>391801407797</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель, свекла, лук</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гурьевский район, пос. Рассвет</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Палютина Екатерина Сергеевна"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.654990, 20.480789]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>ИП Купцов Павел Михайлович</p></li><li><p><strong>Руководитель:</strong>Купцов Павел Михайлович</p></li><li><p><strong>ИНН:</strong>390700013956</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>огурцы, томаты, перец</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гурьевский район, пос. Ново-Дорожный</p></li></ul>",
+        "clusterCaption": "ИП Купцов Павел Михайлович"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.634062, 22.554424]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>ИП Снисаренко Сергей Викторович</p></li><li><p><strong>Руководитель:</strong>Снисаренко Сергей Викторович</p></li><li><p><strong>ИНН:</strong>392000560450</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>картофелеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Нестеровский район, пос. Петровское</p></li></ul>",
+        "clusterCaption": "ИП Снисаренко Сергей Викторович"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.827920, 22.133977]
+      },
+      "properties": {
+        "balloonContent": "Зерновые культуры",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Жилис Юрий Казио</p></li><li><p><strong>Руководитель:</strong>Жилис Юрий Казио</p></li><li><p><strong>ИНН:</strong>390900183803</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>выращивание зерновых культур</p></li><li><p><strong>Производимая продукция:</strong>зерновые культуры и картофель</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Неманский район, пос. Гривино</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Жилис Юрий Казио"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.523670, 20.121319]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>Крестьянское (фермерское) хозяйство Золотухин С.П.</p></li><li><p><strong>Руководитель:</strong>Золотухин Сергей Петрович</p></li><li><p><strong>ИНН:</strong>226901920066</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель, все виды капусты, свеклы и моркови</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Багратионовский район, пос. Первомайское</p></li></ul>",
+        "clusterCaption": "Крестьянское (фермерское) хозяйство Золотухин С.П."
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.548791, 20.169675]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Красцов Александр Викторович</p></li><li><p><strong>Руководитель:</strong>Красцов Александр Викторович</p></li><li><p><strong>ИНН:</strong>391502093743</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель, морковь, капуста, свекла, репа и редька</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Багратионовский район, пос. Совхозное</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Красцов Александр Викторович"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.632390, 20.889091]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Кот Владимир Валерьевич</p></li><li><p><strong>Руководитель:</strong>Кот Владимир Валерьевич</p></li><li><p><strong>ИНН:</strong>391610684782</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>картофелеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гвардейский район, пос. Озерки</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Кот Владимир Валерьевич"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.700788, 20.741363]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Тятлина Олеся Алексеевна</p></li><li><p><strong>Руководитель:</strong>Тятлина Олеся Алексеевна</p></li><li><p><strong>ИНН:</strong>390610158996</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель, морковь, капуста, огурцы, томаты, петрушка, салат, укроп</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гурьевский район, пос. Низовье</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Тятлина Олеся Алексеевна"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.890717, 20.371248]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>К(Ф)Х Кочергин Дмитрий Анатольевич</p></li><li><p><strong>Руководитель:</strong>Кочергин Дмитрий Анатольевич</p></li><li><p><strong>ИНН:</strong>390613161595</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>картофелеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Зеленоградский район, пос. Родники</p></li></ul>",
+        "clusterCaption": "К(Ф)Х Кочергин Дмитрий Анатольевич"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.866482, 20.448243]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>ООО «Бизнес-Агро»</p></li><li><p><strong>Руководитель:</strong>Директор Зарудная Ирина Олеговна</p></li><li><p><strong>ИНН:</strong>3918011107</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>огурцы, томаты, зеленные культуры (салаты, пекинская капуста, лук перо, укроп, петрушка)</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Зеленоградский район, пос. Корчагино</p></li></ul>",
+        "clusterCaption": "ООО «Бизнес-Агро»"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.817791, 20.283815]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>ООО «Совместное предприятие «Панона»</p></li><li><p><strong>Руководитель:</strong>Генеральный директор Майзенгельтер Елена Анатольевна</p></li><li><p><strong>ИНН:</strong>3906340347</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>огурцы, томаты, перец сладкий, перец острый, кабачок, капуста, зеленные культуры</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Зеленоградский район, пос. Переславское</p></li></ul>",
+        "clusterCaption": "ООО «Совместное предприятие «Панона»"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.679301, 20.974817]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>ООО «Орбита-Агро»</p></li><li><p><strong>Руководитель:</strong>Генеральный директор Мамедов Ренат Шаигович</p></li><li><p><strong>ИНН:</strong>3916004591</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>томаты, огурцы, картофель и другие овощи открытого и закрытого грунта, зелень и салаты, земляника (клубника)</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гвардейский район, пос. Звеньевое</p></li><li><p><strong>Сайт:</strong><a href=\"https://orbita-agro39.ru\" target=\"_blank\">orbita-agro39.ru</a></p></li></ul>",
+        "clusterCaption": "ООО «Орбита-Агро»"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.733858, 20.583817]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>ПСПК «Наш продукт»</p></li><li><p><strong>Руководитель:</strong>Председатель кооператива Мелкозерова Ирина Артемовна</p></li><li><p><strong>ИНН:</strong>3917034278</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>овощи открытого и закрытого грунта</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гурьевский район, пос. Малое Исаково</p></li></ul>",
+        "clusterCaption": "ПСПК «Наш продукт»"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.750380, 20.562527]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>СПСПК «Овощи Калининграда»</p></li><li><p><strong>Руководитель:</strong>Председатель кооператива Егоров Андрей Владимирович</p></li><li><p><strong>ИНН:</strong>3906157415</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>овощи открытого и закрытого грунта</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская обл., г. Калининград, ул. 4-я Большая Окружная, 41а</p></li><li><p><strong>Сайт:</strong><a href=\"https://naturovo.ru\">naturovo.ru</a></p></li></ul>",
+        "clusterCaption": "СПСПК «Овощи Калининграда»"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.817791, 20.283815]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>СППСК «Зеленоградский»</p></li><li><p><strong>Руководитель:</strong>Председатель кооператива Кизенко Сергей Михайлович</p></li><li><p><strong>ИНН:</strong>3918013217</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>огурцов, томатов, сладкого и острого перца, брокколи,кабачков, баклажанов, редиса, помидоров черри, пекинской капусты, кукурузы, салатов, зеленого лука, базилика, шпината, щавеля, укропа, петрушки</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Зеленоградский район, пос. Переславское</p></li></ul>",
+        "clusterCaption": "СППСК «Зеленоградский»"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.769180, 22.054332]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>СППК «Загорское»</p></li><li><p><strong>Руководитель:</strong>Председатель кооператива Минич Владимир Адамович</p></li><li><p><strong>ИНН:</strong>3914021908</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>картофель, морковь, свекла, капуста, лук</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Черняховский район, пос. Щеглы</p></li></ul>",
+        "clusterCaption": "СППК «Загорское»"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.679301, 20.974817]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>СПСК «Теплицы Балтики»</p></li><li><p><strong>Руководитель:</strong>Председатель кооператива Степанова Марина Анатольевна</p></li><li><p><strong>ИНН:</strong>3916015579</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>овощеводство</p></li><li><p><strong>Производимая продукция:</strong>зеленных культур</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская область, Гвардейский район, пос. Звеньевое</p></li></ul>",
+        "clusterCaption": "СПСК «Теплицы Балтики»"
+      },
+      "options": {
+        "iconLayout": "default#imageWithContent",
+        "iconImageHref": "img/овощеводсвто.svg",
+        "iconImageSize": [48, 48],
+        "iconImageOffset": [-24, -24],
+        "iconContentOffset": [15, 15]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates":[54.462519, 19.920896]
+      },
+      "properties": {
+        "balloonContent": "Овощеводство",
+        "balloonContentBody": "<ul><li><p><strong>Наименование юридического лица:</strong>ООО «ХИПП»</p></li><li><p><strong>Руководитель:</strong>Директор Ратникова Ольга Анатольевна</p></li><li><p><strong>ИНН:</strong>3915446910</p></li><li><p><strong>Отрасль сельского хозяйства:</strong>растениеводство</p></li><li><p><strong>Направление деятельности:</strong>переработка сельскохозяйственной продукции</p></li><li><p><strong>Производимая продукция:</strong>премиальное детское питание</p></li><li><p><strong>Адрес ведения деятельности:</strong>Калининградская обл., г. Мамоново, ул. Таможняя, д. 40</p></li><li><p><strong>Сайт:</strong><a href=\"https://hipp.ru\">hipp.ru</a></p></li></ul>",
+        "clusterCaption": "ООО «ХИПП»"
       },
       "options": {
         "iconLayout": "default#imageWithContent",

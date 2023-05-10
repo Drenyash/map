@@ -25,19 +25,22 @@ function init() {
 
     const categoryBox = document.querySelector("[data-filter-category]");
 
+    // переменная для хранения униклаьных категорий
     const productTypes = new Set();
 
     const getData = (data) => {
         data.features.forEach(el => {
+            // Добавление всех категорий в productTypes
             productTypes.add(el.properties.balloonContent)
         })
+        // рендер в кастомный фильтр категорий
         productTypes.forEach(el => {
             categoryBox.insertAdjacentHTML('beforeend', categoryTemplate(el))
         });
 
-        // Создадим 5 пунктов выпадающего списка.
+        // Создадим пункты выпадающего списка.
         var listBoxItems = [...productTypes]
-                .map(function (title) {
+                .map((title) => {
                     return new ymaps.control.ListBoxItem({
                         data: {
                             content: title
@@ -47,11 +50,11 @@ function init() {
                         }
                     })
                 }),
-            reducer = function (filters, filter) {
+            reducer = (filters, filter) => {
                 filters[filter.data.get('content')] = filter.isSelected();
                 return filters;
             },
-            // Теперь создадим список, содержащий 5 пунктов.
+            // Теперь создадим список, содержащий пункты.
             listBoxControl = new ymaps.control.ListBox({
                 data: {
                     content: 'Фильтр',
@@ -67,22 +70,22 @@ function init() {
         myMap.controls.add(listBoxControl);
 
         // Добавим отслеживание изменения признака, выбран ли пункт списка.
-        listBoxControl.events.add(['select', 'deselect'], function (e) {
-            var listBoxItem = e.get('target');
-            var filters = ymaps.util.extend({}, listBoxControl.state.get('filters'));
+        listBoxControl.events.add(['select', 'deselect'], (e) => {
+            const listBoxItem = e.get('target');
+            const filters = ymaps.util.extend({}, listBoxControl.state.get('filters'));
             filters[listBoxItem.data.get('content')] = listBoxItem.isSelected();
             listBoxControl.state.set('filters', filters);
         });
 
-        var filterMonitor = new ymaps.Monitor(listBoxControl.state);
-        filterMonitor.add('filters', function (filters) {
+        const filterMonitor = new ymaps.Monitor(listBoxControl.state);
+        filterMonitor.add('filters', (filters) => {
             // Применим фильтр.
             objectManager.setFilter(getFilterFunction(filters));
         });
 
         function getFilterFunction(categories) {
-            return function (obj) {
-                var content = obj.properties.balloonContent;
+            return (obj) => {
+                const content = obj.properties.balloonContent;
                 return categories[content]
             }
         }
