@@ -4042,7 +4042,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4082,7 +4082,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4123,7 +4123,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4163,7 +4163,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4201,7 +4201,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4242,7 +4242,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4282,7 +4282,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4322,7 +4322,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4568,7 +4568,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4612,7 +4612,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4656,7 +4656,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4698,7 +4698,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4740,7 +4740,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4784,7 +4784,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4825,7 +4825,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4867,7 +4867,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4912,7 +4912,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -4955,7 +4955,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5000,7 +5000,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5085,7 +5085,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5129,7 +5129,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5173,7 +5173,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5218,7 +5218,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5263,7 +5263,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5308,7 +5308,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5352,7 +5352,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5518,7 +5518,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5558,7 +5558,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5598,7 +5598,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5638,7 +5638,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5678,7 +5678,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5718,7 +5718,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5758,7 +5758,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5798,7 +5798,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5838,7 +5838,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5878,7 +5878,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5918,7 +5918,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5958,7 +5958,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -5998,7 +5998,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6038,7 +6038,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6078,7 +6078,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6118,7 +6118,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6158,7 +6158,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6199,7 +6199,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6239,7 +6239,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6279,7 +6279,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6319,7 +6319,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/мясноескотоводсвто.svg',
+            iconImageHref: 'img/мясноеСкотоводсвто.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6359,7 +6359,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6399,7 +6399,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6440,7 +6440,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6484,7 +6484,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6529,7 +6529,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6574,7 +6574,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6615,7 +6615,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6660,7 +6660,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6703,7 +6703,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6746,7 +6746,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
@@ -6786,7 +6786,7 @@ export let data = [
         },
         options: {
             iconLayout: 'default#imageWithContent',
-            iconImageHref: 'img/молочное скотоводство.svg',
+            iconImageHref: 'img/молочка.svg',
             iconImageSize: [48, 48],
             iconImageOffset: [-24, -24],
             iconContentOffset: [15, 15],
