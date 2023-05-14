@@ -112,7 +112,7 @@ function init() {
     `
     }
 
-    fetch('../data.json')
+    fetch('./data.json')
         .then(response => response.json())
         .then(response => {
             getData(response);
