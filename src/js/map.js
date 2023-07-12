@@ -1,8 +1,9 @@
 import Chart from 'chart.js/auto'
+import {log10} from "chart.js/helpers";
 
 ymaps.ready(init);
 
-const url = './data.json';
+const url = 'http://localhost:3001/features';
 
 function init() {
     var myMap = new ymaps.Map('map', {
@@ -12,7 +13,7 @@ function init() {
         }, {
             restrictMapArea: [
                 [55.343980, 19.788975],
-                [54.084492, 23.322867]
+                [53.953973, 23.310124]
             ],
             searchControlProvider: 'yandex#search'
         }),
@@ -194,6 +195,13 @@ function init() {
     function countAllStructures(data, chart) {
         data.forEach(element => {
             // Проверка элемента на принадлежность к активному району
+            if (activeLocation == 'Калининградская Область') {
+                if (totalCount.hasOwnProperty(element.properties.balloonContent)) {
+                    totalCount[element.properties.balloonContent] += 1;
+                } else {
+                    totalCount[element.properties.balloonContent] = 1;
+                }
+            }
             if (element.properties.clusterLocation === activeLocation) {
                 if (totalCount.hasOwnProperty(element.properties.balloonContent)) {
                     totalCount[element.properties.balloonContent] += 1;
@@ -203,6 +211,7 @@ function init() {
             }
         })
         totalCountArray = Object.entries(totalCount);
+        console.log(totalCountArray)
 
         totalCountArray.forEach((el, idx) => {
             chart.data.datasets[0].data[chart.data.labels.indexOf(el[0])] = el[1];
