@@ -68,7 +68,7 @@ function init() {
     const locations = new Set();
     let totalCount = {};
     let totalCountArray = [];
-    let activeLocation = '';
+    let activeLocation = 'Калининградская Область';
     const ctx = document.getElementById('myChart').getContext('2d');
     let myChart = new chart_js_auto__WEBPACK_IMPORTED_MODULE_0__["default"](ctx, {
         type: 'bar',

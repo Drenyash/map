@@ -43,7 +43,7 @@ function init() {
     const locations = new Set();
     let totalCount = {};
     let totalCountArray = [];
-    let activeLocation = '';
+    let activeLocation = 'Калининградская Область';
     const ctx = document.getElementById('myChart').getContext('2d');
     let myChart = new Chart(ctx, {
         type: 'bar',
