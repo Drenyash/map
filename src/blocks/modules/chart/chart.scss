@@ -1,0 +1,20 @@
+#myChart {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: 99999;
+  display: flex;
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: rgba(#FFF, 0.8);
+  opacity: 0;
+  visibility: hidden;
+  transition: .2s linear;
+}
+
+.active {
+  opacity: 1 !important;
+  visibility: visible !important;
+}

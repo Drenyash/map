@@ -5,14 +5,15 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Создание кластеризатора</title>
+    <title>ЦКСХ Карта</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=b65b45e9-fb9d-48bd-990d-8a93f5b547e5"
             type="text/javascript"></script>
     <script src="js/map.js" type="module"></script>
     <link rel="stylesheet" href="style.css">
-</head>
+<link href="./css/main.css" rel="stylesheet"></head>
 <body class="body">
+<div style="width: 800px;"><canvas id="myChart"></canvas></div>
 <div id="map"></div>
 <div class="filter">
     <form class="form" action="#">
@@ -39,5 +40,5 @@
         </fieldset>
     </form>
 </div>
-</body>
+<script defer src="js/bundle.js"></script></body>
 </html>

@@ -57,9 +57,16 @@ label {
 
 .check {
     display: flex;
+    column-gap: 10px;
 }
 
 .search {
     display: flex;
     flex-direction: column;
+}
+
+.check input {
+    display: flex;
+    width: 18px;
+    height: 18px;
 }
