@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
     "serve": "webpack serve",
-    "server": "json-server -p3001 --watch data.json",
+    "server": "json-server -p3001 --watch dist/data.json",
     "lint": "npx eslint src/**/*.js"
   },
   "repository": {

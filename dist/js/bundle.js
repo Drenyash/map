@@ -26,7 +26,7 @@ __webpack_require__.r(__webpack_exports__);
 
 ymaps.ready(init);
 
-const url = '../../data.json';
+const url = './data.json';
 
 function init() {
     var myMap = new ymaps.Map('map', {
@@ -185,8 +185,9 @@ function init() {
     fetch(url)
         .then(response => response.json())
         .then(response => {
-            getData(response);
-            objectManager.add(response)
+            console.log(response.features)
+            getData(response.features);
+            objectManager.add(response.features)
         })
 
 
@@ -15308,7 +15309,7 @@ function styleChanged(style, prevStyle) {
 /************************************************************************/
 /******/ 	// The module cache
 /******/ 	var __webpack_module_cache__ = {};
-/******/ 	
+/******/
 /******/ 	// The require function
 /******/ 	function __webpack_require__(moduleId) {
 /******/ 		// Check if module is in cache
@@ -15322,14 +15323,14 @@ function styleChanged(style, prevStyle) {
 /******/ 			// no module.loaded needed
 /******/ 			exports: {}
 /******/ 		};
-/******/ 	
+/******/
 /******/ 		// Execute the module function
 /******/ 		__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
-/******/ 	
+/******/
 /******/ 		// Return the exports of the module
 /******/ 		return module.exports;
 /******/ 	}
-/******/ 	
+/******/
 /************************************************************************/
 /******/ 	/* webpack/runtime/define property getters */
 /******/ 	!function() {
@@ -15342,12 +15343,12 @@ function styleChanged(style, prevStyle) {
 /******/ 			}
 /******/ 		};
 /******/ 	}();
-/******/ 	
+/******/
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	!function() {
 /******/ 		__webpack_require__.o = function(obj, prop) { return Object.prototype.hasOwnProperty.call(obj, prop); }
 /******/ 	}();
-/******/ 	
+/******/
 /******/ 	/* webpack/runtime/make namespace object */
 /******/ 	!function() {
 /******/ 		// define __esModule on exports
@@ -15358,7 +15359,7 @@ function styleChanged(style, prevStyle) {
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
 /******/ 	}();
-/******/ 	
+/******/
 /************************************************************************/
 var __webpack_exports__ = {};
 // This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.

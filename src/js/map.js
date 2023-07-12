@@ -2,7 +2,7 @@ import Chart from 'chart.js/auto'
 
 ymaps.ready(init);
 
-const url = '../../data.json';
+const url = './data.json';
 
 function init() {
     var myMap = new ymaps.Map('map', {
